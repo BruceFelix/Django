@@ -1,2 +1,1 @@
-# Django
-Learning Django with Realpython
+#Django
