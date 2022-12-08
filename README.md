@@ -1,3 +1,4 @@
 # Django
-w3shools tutorial
+Polls app from the Django official tutorial
+
 
